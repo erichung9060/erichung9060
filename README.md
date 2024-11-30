@@ -1,3 +1,5 @@
+
+
 ### 
 
 <div align="center">
@@ -31,10 +33,7 @@
 
 ![Untitled Design 1200x50px](https://github.com/user-attachments/assets/ee646647-5b97-451a-8e41-607309b8beca)
 
-
-### <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width = 32px> Language
-
-###
+### <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width = 32px> &nbsp; Language
 
 <div align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
@@ -61,9 +60,7 @@
 
 ###
 
-### <img src="https://media.giphy.com/media/GTSGV28z8QtjYpXolq/giphy.gif" width = 32px> Tools
-
-###
+### <img src="https://media.giphy.com/media/GTSGV28z8QtjYpXolq/giphy.gif" width = 32px> &nbsp; Tools
 
 <div align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
@@ -86,9 +83,7 @@
 
 ###
 
-### <img src="https://media.giphy.com/media/6CTYJhMA3eVcSLpmKH/giphy.gif" width = 32px> Database
-
-###
+### <img src="https://media.giphy.com/media/6CTYJhMA3eVcSLpmKH/giphy.gif" width = 45px> Database
 
 <div align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
@@ -101,9 +96,7 @@
 
 ###
 
-### <img src="https://media.giphy.com/media/6jh2o1HMgFtPZoR1m4/giphy.gif" width = 32px> Cloud
-
-###
+### <img src="https://media.giphy.com/media/6jh2o1HMgFtPZoR1m4/giphy.gif" width = 40px> Cloud
 
 <div align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo" />
