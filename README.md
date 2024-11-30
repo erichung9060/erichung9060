@@ -1,4 +1,4 @@
-###
+### 
 
 <div align="center">
     <a href="rthung96@gmail.com" target="_blank">
@@ -17,11 +17,12 @@
 
 ### 
 
-<h1 align="center">Hi👋 I am erichung</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I am erichung</h1>
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> About Me
+
 
 ###
 
@@ -31,7 +32,7 @@
 
 ###
 
-<h3 align="left">💻 Language</h3>
+### <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width = 32px> Language
 
 ###
 
@@ -60,7 +61,7 @@
 
 ###
 
-<h3 align="left">🛠️ Tools</h3>
+### <img src="https://media.giphy.com/media/GTSGV28z8QtjYpXolq/giphy.gif" width = 32px> Tools
 
 ###
 
@@ -85,7 +86,7 @@
 
 ###
 
-<h3 align="left">🛢️ Database</h3>
+## <img src="https://media.giphy.com/media/6CTYJhMA3eVcSLpmKH/giphy.gif" width = 32px> Database
 
 ###
 
@@ -100,7 +101,7 @@
 
 ###
 
-<h3 align="left">☁️ Cloud</h3>
+## <img src="https://media.giphy.com/media/6jh2o1HMgFtPZoR1m4/giphy.gif" width = 32px> Cloud
 
 ###
 
