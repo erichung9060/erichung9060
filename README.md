@@ -21,16 +21,16 @@
 
 ###
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> About Me
 
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> About Me
 
 ###
 
 <p align="left">I'm a student from National Cheng Kung University.<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+![Untitled Design 1000x50 (1)](https://github.com/user-attachments/assets/ce8287d8-abd0-44e8-a640-1959380dc420)
 
-###
+##
 
 ### <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width = 32px> Language
 
@@ -86,7 +86,7 @@
 
 ###
 
-## <img src="https://media.giphy.com/media/6CTYJhMA3eVcSLpmKH/giphy.gif" width = 32px> Database
+### <img src="https://media.giphy.com/media/6CTYJhMA3eVcSLpmKH/giphy.gif" width = 32px> Database
 
 ###
 
@@ -101,7 +101,7 @@
 
 ###
 
-## <img src="https://media.giphy.com/media/6jh2o1HMgFtPZoR1m4/giphy.gif" width = 32px> Cloud
+### <img src="https://media.giphy.com/media/6jh2o1HMgFtPZoR1m4/giphy.gif" width = 32px> Cloud
 
 ###
 
