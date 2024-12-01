@@ -20,7 +20,7 @@
 
 ![seperate_line](https://github.com/erichung9060/erichung9060/blob/main/src/seperate_line.gif)
 
-### <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width = 32px> &nbsp; Language
+### <img src="https://github.com/erichung9060/erichung9060/blob/main/src/language.gif" width = 32px> &nbsp; Languages
 <div align="left">
     &nbsp;&nbsp;&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
@@ -46,7 +46,7 @@
 </div>
 
 
-### <img src="https://media.giphy.com/media/GTSGV28z8QtjYpXolq/giphy.gif" width = 32px> &nbsp; Tools
+### <img src="https://github.com/erichung9060/erichung9060/blob/main/src/tool.gif" width = 32px> &nbsp; Tools
 <div align="left">
     &nbsp;&nbsp;&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
@@ -68,7 +68,7 @@
 </div>
 
 
-### <img src="https://media.giphy.com/media/6CTYJhMA3eVcSLpmKH/giphy.gif" width = 45px> Database
+### <img src="https://github.com/erichung9060/erichung9060/blob/main/src/database.gif" width = 45px> Databases
 <div align="left">
     &nbsp;&nbsp;&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
@@ -79,7 +79,7 @@
     &nbsp;
 </div>
 
-### <img src="https://media.giphy.com/media/6jh2o1HMgFtPZoR1m4/giphy.gif" width = 40px> Cloud
+### <img src="https://github.com/erichung9060/erichung9060/blob/main/src/cloud.gif" width = 40px> Clouds
 <div align="left">
     &nbsp;&nbsp;&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo" />
