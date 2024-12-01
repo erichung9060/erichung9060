@@ -13,7 +13,9 @@
     </a>
 </div>
 
-<div align="center"><img src="https://github.com/user-attachments/assets/d26dbdad-b448-4f2b-9562-a0b8bac7739c" width="400" ></div>
+![Untitled Design 1200x50px](https://github.com/user-attachments/assets/ee646647-5b97-451a-8e41-607309b8beca)
+
+<div align="center"><img src="https://github.com/user-attachments/assets/d26dbdad-b448-4f2b-9562-a0b8bac7739c" width="300" ></div>
 
 ### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> About Me
 <p align="left">I'm a student from National Cheng Kung University.<br>
