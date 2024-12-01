@@ -15,7 +15,8 @@
 
 ![Untitled Design 1200x50px](https://github.com/user-attachments/assets/ee646647-5b97-451a-8e41-607309b8beca)
 
-<div align="center"><img src="https://github.com/user-attachments/assets/e578bae5-261e-4dae-b0d7-9c7d619187ff" width="300" ></div>
+
+<div align="center"><img src="https://github.com/user-attachments/assets/e33c22c2-1308-4c5b-a66a-7da0cc4de62e" width="300" ></div>
 
 ### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> About Me
 <p align="left">I'm a student from National Cheng Kung University.<br>
