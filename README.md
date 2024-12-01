@@ -1,7 +1,3 @@
-
-
-### 
-
 <div align="center">
     <a href="rthung96@gmail.com" target="_blank">
         <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
@@ -17,25 +13,17 @@
     </a>
 </div>
 
-### 
+<div align="center"><img src="https://github.com/user-attachments/assets/d26dbdad-b448-4f2b-9562-a0b8bac7739c" width="400" ></div>
 
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I am erichung</h1>
-
-###
-
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> About Me
-
-###
-
-<p align="left">I'm a student from National Cheng Kung University.<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
-
+### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> About Me
+<p align="left">I'm a student from National Cheng Kung University.<br>
+- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
 
 ![Untitled Design 1200x50px](https://github.com/user-attachments/assets/ee646647-5b97-451a-8e41-607309b8beca)
 
 ### <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width = 32px> &nbsp; Language
-
 <div align="left">
+    &nbsp;&nbsp;&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
     &nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
@@ -58,11 +46,10 @@
     &nbsp;
 </div>
 
-###
 
 ### <img src="https://media.giphy.com/media/GTSGV28z8QtjYpXolq/giphy.gif" width = 32px> &nbsp; Tools
-
 <div align="left">
+    &nbsp;&nbsp;&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
     &nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
@@ -81,11 +68,10 @@
     &nbsp;
 </div>
 
-###
 
 ### <img src="https://media.giphy.com/media/6CTYJhMA3eVcSLpmKH/giphy.gif" width = 45px> Database
-
 <div align="left">
+    &nbsp;&nbsp;&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
     &nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
@@ -94,19 +80,16 @@
     &nbsp;
 </div>
 
-###
-
 ### <img src="https://media.giphy.com/media/6jh2o1HMgFtPZoR1m4/giphy.gif" width = 40px> Cloud
-
 <div align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo" />
+    &nbsp;&nbsp;&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo" />
     &nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo" />
     &nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo" />
     &nbsp;
 </div>
-
 
 
 ![Untitled Design 1200x50px](https://github.com/user-attachments/assets/ee646647-5b97-451a-8e41-607309b8beca)
