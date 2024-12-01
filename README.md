@@ -13,17 +13,15 @@
     </a>
 </div>
 
+![seperate_line](https://raw.githubusercontent.com/erichung9060/erichung9060/main/src/seperate_line.gif)
 
-![Untitled Design 1200x50px](https://github.com/user-attachments/assets/ee646647-5b97-451a-8e41-607309b8beca)
-
-
-<div align="center"><img src="https://github.com/user-attachments/assets/600a70e9-dce7-47c0-8ccf-5fdf516b8a69" width="300" ></div>
+<div align="center"><img src="https://raw.githubusercontent.com/erichung9060/erichung9060/main/src/hello.gif" width="300" ></div>
 
 ### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> About Me
 <p align="left">I'm a student from National Cheng Kung University.<br>
 - 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
 
-![Untitled Design 1200x50px](https://github.com/user-attachments/assets/ee646647-5b97-451a-8e41-607309b8beca)
+![seperate_line](https://raw.githubusercontent.com/erichung9060/erichung9060/main/src/seperate_line.gif)
 
 ### <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width = 32px> &nbsp; Language
 <div align="left">
@@ -96,8 +94,7 @@
 </div>
 
 
-![Untitled Design 1200x50px](https://github.com/user-attachments/assets/ee646647-5b97-451a-8e41-607309b8beca)
-
+![seperate_line](https://raw.githubusercontent.com/erichung9060/erichung9060/main/src/seperate_line.gif)
 
 <h3 align="left">🔥   My Stats :</h3>
 
