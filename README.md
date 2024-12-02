@@ -15,8 +15,8 @@
 <div align="center"><img src="https://raw.githubusercontent.com/erichung9060/erichung9060/main/src/hello.gif" width="300" ></div>
 
 ### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> About Me
-<p align="left">I'm a student from National Cheng Kung University.<br>
-- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+
+My name is Erichung. I’m currently studying Computer Science and Information Engineering at National Cheng Kung University. I used to participate in Competitive Programming Contests. But now, I focus on full-stack development, especially with JavaScript. I enjoy creating pratical Chrome extensions, such as [Coursera Auto Quiz](https://github.com/erichung9060/Coursera_Auto_Quiz) and [Moodle Auto Verify](https://github.com/erichung9060/Moodle_Auto_Verify), which significantly enhance daily productivity and improve quality of life.
 
 ![seperate_line](https://github.com/erichung9060/erichung9060/blob/main/src/seperate_line.gif)
 
