@@ -14,7 +14,7 @@
 
 <div align="center"><img src="https://raw.githubusercontent.com/erichung9060/erichung9060/main/src/hello.gif" width="300" ></div>
 
-### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> About Me
+### <img src="https://raw.githubusercontent.com/erichung9060/erichung9060/main/src/about_me.gif" width="30px"> About Me
 
 My name is Erichung. I’m a student studying Computer Science and Information Engineering at National Cheng Kung University. 
 
@@ -24,7 +24,7 @@ Now, I focus on full-stack development, especially with JavaScript. I enjoy crea
 
 <br>
 
-### Experience:
+### <img src="https://raw.githubusercontent.com/erichung9060/erichung9060/main/src/experience.gif" width="30px"> Experience:
 
 #### Competition
 - 2024 ICPC Asia Taichung Regional Programming Contest - Bronze
@@ -122,7 +122,7 @@ Now, I focus on full-stack development, especially with JavaScript. I enjoy crea
 
 ![seperate_line](https://raw.githubusercontent.com/erichung9060/erichung9060/main/src/seperate_line.gif)
 
-<h3 align="left">🔥   My Stats :</h3>
+### <img src="https://github.com/erichung9060/erichung9060/blob/main/src/me_stats.gif" width = 40px> My Stats
 
 ###
 <span>
