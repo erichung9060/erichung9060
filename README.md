@@ -122,7 +122,7 @@ Now, I focus on full-stack development, especially with JavaScript. I enjoy crea
 
 ![seperate_line](https://raw.githubusercontent.com/erichung9060/erichung9060/main/src/seperate_line.gif)
 
-### <img src="https://github.com/erichung9060/erichung9060/blob/main/src/me_stats.gif" width = 40px> My Stats
+### <img src="https://github.com/erichung9060/erichung9060/blob/main/src/my_stats.gif" width = 40px> My Stats
 
 ###
 <span>
