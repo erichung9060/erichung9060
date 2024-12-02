@@ -4,5 +4,6 @@
 - [https://giphy.com/](https://giphy.com/)
 
 
-### Free GIF Online Editor (video to GIF, crop, remove background)
+### Free GIF Online Editor
+(video to GIF, crop, remove background)
 - [https://ezgif.com/](https://ezgif.com/)
