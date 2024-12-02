@@ -22,6 +22,26 @@ I have participated in numerous Competitive Programming Contests because I have 
 
 Now, I focus on full-stack development, especially with JavaScript. I enjoy creating pratical Chrome extensions, such as [Coursera Auto Quiz](https://github.com/erichung9060/Coursera_Auto_Quiz) and [Moodle Auto Verify](https://github.com/erichung9060/Moodle_Auto_Verify), which significantly enhance daily productivity and improve quality of life.
 
+<br>
+
+### Experience:
+
+- 2024 ICPC Asia Taichung Regional Programming Contest - Bronze
+- 2024 NCKU CSIE Data Structure Course - TA
+- 2024 NCKU CSIE Program Design 1 Course - TA
+- 2024 2024 ICPC Asia Taiwan Online Programming Contest - Sliver
+- 2024 Young Turing Program(YTP) Problem Maker
+- 2023 sprout algorithm class - Lecturer
+- 2023 2023 ICPC Asia Yokohama Regional Contest - Honorable Mention
+- 2023 SITCON Hour Of Code - Founder
+- 2023 NCKU CSIE Program Design 1 Course - TA
+- 2023 [SCIST x NHDK] Algorithm Winter Camp  - Lecturer
+- 2022 SITCON Hour Of Code - TA
+- 2021 National Computing Science Competition, Regional Qualifier - First Place
+- 2021 National Computing Science Competition, School-Level Contest - First Place
+
+  
+
 ![seperate_line](https://github.com/erichung9060/erichung9060/blob/main/src/seperate_line.gif)
 
 ### <img src="https://github.com/erichung9060/erichung9060/blob/main/src/language.gif" width = 32px> &nbsp; Languages
