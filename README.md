@@ -22,7 +22,7 @@ I have participated in numerous Competitive Programming Contests because I have 
 
 Now, I focus on full-stack development, especially with JavaScript. I enjoy creating pratical Chrome extensions, such as [Coursera Auto Quiz](https://github.com/erichung9060/Coursera_Auto_Quiz) and [Moodle Auto Verify](https://github.com/erichung9060/Moodle_Auto_Verify), which significantly enhance daily productivity and improve quality of life.
 
-<br>
+![seperate_line](https://github.com/erichung9060/erichung9060/blob/main/src/seperate_line.gif)
 
 ### <img src="https://raw.githubusercontent.com/erichung9060/erichung9060/main/src/experience.gif" width="30px"> Experience:
 
