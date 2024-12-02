@@ -35,7 +35,7 @@ Now, I focus on full-stack development, especially with JavaScript. I enjoy crea
 - 2023 2023 ICPC Asia Yokohama Regional Contest - Honorable Mention
 - 2023 SITCON Hour Of Code - Founder
 - 2023 NCKU CSIE Program Design 1 Course - TA
-- 2023 [SCIST x NHDK] Algorithm Winter Camp  - Lecturer
+- 2023 [SCIST x NHDK x 11 Southern Schools] Algorithm Winter Camp  - Lecturer
 - 2022 SITCON Hour Of Code - TA
 - 2021 National Computing Science Competition, Regional Qualifier - First Place
 - 2021 National Computing Science Competition, School-Level Contest - First Place
