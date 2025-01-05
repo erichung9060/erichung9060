@@ -34,11 +34,11 @@ Now, I focus on full-stack development, especially with JavaScript. I enjoy crea
 - 2021 National Computing Science Competition, School-Level Contest - First Place
 
 #### Teacher Assistant
-- 2024 NCKU CSIE Data Structure Course - TA
-- 2024 NCKU CSIE Program Design 1 Course - TA
-- 2023 NCKU CSIE Program Design 1 Course - TA
-- 2023 NCKU Electrical Engineering Camp, Advanced Programming Class - TA
-- 2022 SITCON Hour Of Code - TA
+- 2024 NCKU CSIE Data Structure Course
+- 2024 NCKU CSIE Program Design 1 Course
+- 2023 NCKU CSIE Program Design 1 Course
+- 2023 NCKU Electrical Engineering Camp, Advanced Programming Class
+- 2022 SITCON Hour Of Code
 
 #### Others
 - 2024 Young Turing Program(YTP) - Problem Maker
