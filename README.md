@@ -126,11 +126,11 @@ Now, I focus on full-stack development, especially with JavaScript. I enjoy crea
 
 ###
 <span>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=erichung9060&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=algolia&hide_border=false&order=2" height="170" alt="languages graph"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=erichung9060&layout=compact&theme=algolia" height="170" alt="languages graph"/>
 </span>
 &nbsp;&nbsp;&nbsp;
 <span>
-    <img src="https://streak-stats.demolab.com?user=erichung9060&locale=en&mode=daily&theme=algolia&hide_border=false&border_radius=5&order=3" height="170" alt="streak graph"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=erichung9060&theme=algolia&rank_icon=github" height="170" alt="streak graph"/>
 </span>
 
 
