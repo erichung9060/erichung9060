@@ -139,3 +139,7 @@ Now, I focus on full-stack development, especially with JavaScript. I enjoy crea
 <img src="https://raw.githubusercontent.com/erichung9060/erichung9060/output/snake.svg" alt="Snake animation" />
 
 ###
+
+<a href="https://buymeacoffee.com/erichung0906">
+    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWhpOXd2dnhib2pncW52aXI4ZmoxNXlsZnM3MnVteHFmbmxwOTN3dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/7kZE0z52Sd9zSESzDA/giphy.gif" alt="buymeacoffee logo"  />
+</a>
