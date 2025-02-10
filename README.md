@@ -133,6 +133,8 @@ Now, I focus on full-stack development, especially with JavaScript. I enjoy crea
     <img src="https://github-readme-stats.vercel.app/api?username=erichung9060&theme=algolia&rank_icon=github" height="170" alt="streak graph"/>
 </span>
 
+<img src="https://raw.githubusercontent.com/erichung9060/erichung9060/output/snake.svg" alt="Snake animation" />
+
 ###
 
 ### 💪 Support
