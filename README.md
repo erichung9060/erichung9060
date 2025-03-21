@@ -1,5 +1,5 @@
 <div align="center">
-    <a href="https://www.facebook.com/profile.php?id=100009212130239" target="_blank">
+    <a href="https://www.facebook.com/erichung0906/" target="_blank">
         <img src="https://github.com/erichung9060/erichung9060/blob/main/src/facebook.png" height="25" alt="facebook logo"  />
     </a>
     <a href="mailto:rthung96@gmail.com" target="_blank">
