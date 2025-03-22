@@ -30,8 +30,8 @@ Now, I focus on full-stack development, especially with JavaScript. I enjoy crea
 - 2024 ICPC Asia Taichung Regional Programming Contest - Bronze
 - 2024 ICPC Asia Taiwan Online Programming Contest - Sliver
 - 2023 ICPC Asia Yokohama Regional Contest - Honorable Mention
-- 2021 National Computing Science Competition, Regional Qualifier - First Place
-- 2021 National Computing Science Competition, School-Level Contest - First Place
+- 2021 High School Student Academic Ability Competition, Regional Qualifier - First Place
+- 2021 High School Student Academic Ability Competition, School-Level Contest - First Place
 
 #### Teacher Assistant
 - 2024 NCKU CSIE Data Structure Course
@@ -45,7 +45,7 @@ Now, I focus on full-stack development, especially with JavaScript. I enjoy crea
 - 2023 Sprout algorithm class - Lecturer
 - 2023 SITCON Hour Of Code - Founder
 - 2023 [SCIST x NHDK x 11 Southern Schools] Algorithm Winter Camp  - Lecturer
-
+- 2023 High School Student Academic Ability Competition, Regional Qualifier - OJ Setup and Experience Sharing
 
 ![seperate_line](https://github.com/erichung9060/erichung9060/blob/main/src/seperate_line.gif)
 
