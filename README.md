@@ -20,7 +20,7 @@ My name is Erichung. I’m a student studying Computer Science and Information E
 
 I have participated in numerous Competitive Programming Contests because I have always been fascinated by Algorithms and Data Structures. Through these experiences, I have learned many efficient problem-solving techniques, which I have documented in [learning note](https://hackmd.io/@erichung0906/contents).
 
-Now, I focus on full-stack development, especially with backend. I enjoy creating pratical Chrome extensions, such as [Auto CAPTCHA with LLM](https://github.com/erichung9060/Auto_CAPTCHA_with_LLM), which significantly enhance daily productivity and improve quality of life.
+Now, I focus on full-stack development, especially with React and FastAPI. I also enjoy creating pratical Chrome extensions, such as [Auto CAPTCHA with LLM](https://github.com/erichung9060/Auto_CAPTCHA_with_LLM), which significantly enhance daily productivity and improve quality of life.
 
 ![seperate_line](https://github.com/erichung9060/erichung9060/blob/main/src/seperate_line.gif)
 
