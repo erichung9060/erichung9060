@@ -33,7 +33,7 @@ Now, I focus on full-stack development, especially with React and FastAPI. I als
 - 2021 High School Student Academic Ability Competition, Regional Qualifier - First Place
 - 2021 High School Student Academic Ability Competition, School-Level Contest - First Place
 
-#### Teacher Assistant
+#### Teaching Assistant
 - 2024 NCKU CSIE Data Structure Course
 - 2024 NCKU CSIE Program Design 1 Course
 - 2023 NCKU CSIE Program Design 1 Course
