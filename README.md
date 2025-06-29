@@ -109,6 +109,7 @@ Now, I focus on full-stack development, especially with React and FastAPI. I als
 </span>
 
 <img src="https://raw.githubusercontent.com/erichung9060/erichung9060/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/erichung9060/erichung9060/output/profile-night-rainbow.svg" alt="Snake animation" />
 
 ###
 
