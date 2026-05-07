@@ -16,11 +16,11 @@
 
 ### <img src="https://raw.githubusercontent.com/erichung9060/erichung9060/main/src/about_me.gif" width="30px"> About Me
 
-My name is Erichung. I’m a student studying Computer Science and Information Engineering at National Cheng Kung University. 
+My name is Erichung, a Computer Science student at National Cheng Kung University.
 
-I have participated in numerous Competitive Programming Contests because I have always been fascinated by Algorithms and Data Structures. Through these experiences, I have learned many efficient problem-solving techniques, which I have documented in [learning note](https://hackmd.io/@erichung0906/contents).
+These days, I'm fascinated by AI agents — exploring how LLMs, combined with tools like LangChain, RAG, and MCP, can be turned into systems that actually take action and ship real value. What excites me most is moving agents out of demos and into production.
 
-Now, I focus on full-stack development, especially with React and FastAPI. I also enjoy creating pratical Chrome extensions, such as [Auto CAPTCHA with LLM](https://github.com/erichung9060/Auto_CAPTCHA_with_LLM), which significantly enhance daily productivity and improve quality of life.
+Beyond AI, I enjoy working across the stack — designing scalable backends, crafting responsive web frontends, and shipping mobile apps. I'm always curious about new technologies and how to weave them together into products people actually use.
 
 ![seperate_line](https://github.com/erichung9060/erichung9060/blob/main/src/seperate_line.gif)
 
