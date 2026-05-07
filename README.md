@@ -99,21 +99,5 @@ Beyond AI, I enjoy working across the stack — designing scalable backends, cra
 
 ### <img src="https://github.com/erichung9060/erichung9060/blob/main/src/my_stats.gif" width = 25px> My Stats
 
-###
-<span>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=erichung9060&layout=compact&theme=algolia" height="170" alt="languages graph"/>
-</span>
-&nbsp;&nbsp;&nbsp;
-<span>
-    <img src="https://github-readme-stats.vercel.app/api?username=erichung9060&theme=algolia&rank_icon=github" height="170" alt="streak graph"/>
-</span>
-
 <img src="https://raw.githubusercontent.com/erichung9060/erichung9060/output/snake.svg" alt="Snake animation" />
 <img src="https://raw.githubusercontent.com/erichung9060/erichung9060/output/profile-night-rainbow.svg" alt="Snake animation" />
-
-###
-
-### 💪 Support
-<a href="https://buymeacoffee.com/erichung0906">
-    <img src="src/buymeacoffee.gif" alt="buymeacoffee logo" />
-</a>
